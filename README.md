@@ -26,3 +26,4 @@ pip install . --upgrade
 python frac_diff_sp500.py
 ```
 
+Contribution: philipperemy
