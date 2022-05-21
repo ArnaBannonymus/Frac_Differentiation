@@ -1,5 +1,6 @@
 # Fractional Differentiation on Time Series
-As described in Advances of Machine Learning by Marcos Prado
+As described in Advances of Machine Learning by Arnab Bhowmik
+Colaboration Institution: ISI North India
 
 ## SP500 returns
 
@@ -18,15 +19,10 @@ The animation shows the derivative operator oscillating between the antiderivati
 ## Get Started
 
 ```bash
-git clone git@github.com:philipperemy/fractional-differentiation-time-series.git && cd fractional-differentiation-time-series
+git clone 
 virtualenv -p python3 venv
 source venv/bin/activate
 pip install . --upgrade
 python frac_diff_sp500.py
 ```
 
-
-References:
-- https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086
-- https://wwwf.imperial.ac.uk/~ejm/M3S8/Problems/hosking81.pdf
-- https://en.wikipedia.org/wiki/Fractional_calculus
