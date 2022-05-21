@@ -6,7 +6,7 @@ setup(
     name='fracdiff',
     version=VERSION,
     description='Fractional Differentiation framework for time series.',
-    author='Philippe Remy',
+    author='Arnab Bhowmik',
     license='MIT',
     packages=find_packages(),
     install_requires=[
